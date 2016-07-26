@@ -28,3 +28,6 @@
 * __不能使用`system("cls")`来清屏__，因为调用后鼠标事件`ReadConsoleInput(hInput, &inRec, 1, &res)`读取会失效，我也不知道为什么。
 * __正确应返回0，出错返回-1__，程序里正确返回1，出错返回0不是那么好。
 * 基本上两个学期的所有操作又重新写了函数处理，最好能调用同一个函数处理不同的事情。
+
+###截图：
+https://github.com/TianLanhe/happy_calendar/screenshot.jpg
