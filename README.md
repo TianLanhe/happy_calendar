@@ -30,4 +30,4 @@
 * 基本上两个学期的所有操作又重新写了函数处理，最好能调用同一个函数处理不同的事情。
 
 ###截图：
-https://github.com/TianLanhe/happy_calendar/screenshot.jpg
+![](https://github.com/TianLanhe/happy_calendar/raw/master/screenshot.jpg)
